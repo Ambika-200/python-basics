@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ambika.M
 
 🎓 B.E. in Information Science & Engineering (RVITM, 2nd Year) | Diploma in Electronics & Communication
-💻 Learning Python daily  
+ 💻 Learning Python daily  
 🌱 Goal: Become a Python and expert  
 📚 Sharing my learning journey on GitHub  
 📬 Email: ambikam812@gmail.com  
