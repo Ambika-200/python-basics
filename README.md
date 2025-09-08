@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ambika.M
 
-🎓 Diploma in Electronics & Communication  
+🎓 B.E. in Information Science & Engineering (RVITM, 2nd Year) | Diploma in Electronics & Communication
 💻 Learning Python daily  
 🌱 Goal: Become a Python and expert  
 📚 Sharing my learning journey on GitHub  
